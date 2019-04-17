@@ -1,2 +1,2 @@
 # helloworld-byme
-first project by guidelines
+first project by guidelines if github
